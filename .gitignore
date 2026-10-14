@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Map background is a third-party satellite screenshot, not redistributable
+assets/centralpark.png
